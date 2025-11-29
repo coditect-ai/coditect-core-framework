@@ -1,3 +1,15 @@
+---
+# YAML Frontmatter (Required for CODITECT Standards v1.0)
+project: "COFR"
+version: "1.0.0"
+last_updated: "2025-11-28"
+total_tasks: 181
+completed_tasks: 0
+in_progress_tasks: 0
+blocked_tasks: 0
+status: "complete"
+---
+
 # coditect-framework - Task List
 
 **Project:** CODITECT Framework (Core .coditect Brain)
